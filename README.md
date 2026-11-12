@@ -7,12 +7,6 @@
 
 I'm a software engineer and the CTO of **[Inno Source](https://innovationsrc.com)**, an ERP company I founded in Cairo. I build the system, deploy it, and run the servers under it. The work sits between what a factory or a distributor needs on the ground and the code that has to deliver it.
 
-<div dir="rtl" align="right">
-
-بابني سيستم ERP مصري للمصانع والموزعين وشركات التجارة، من أول سطر كود لحد السيرفر اللي شغال عليه.
-
-</div>
-
 ## Flagship: Inno Source ERP
 
 **[innovationsrc.com](https://innovationsrc.com)** · my biggest project and the one everything else orbits.
@@ -32,8 +26,8 @@ A multi-tenant ERP for factories, distributors and trading companies, live with 
 |---|---|---|---|
 | **Inno OPS** | Control panel for OPNsense firewalls: per-user and per-device blocking, VPN access groups, and a discovery tool that finds what a system needs allowed | Django | Building |
 | **InnoForge** | Open-source platform that builds a management app and its database from a prompt, then hands you full manual control | — | Early development |
-| **عَنّي (3ni)** | Digital profile pages with NFC cards, for people, company teams, shops and restaurants | Django, DRF, Nuxt 3 | Building |
-| **Kallemny (كلّمني)** | Voice English coach with an animated character and scenario-based practice, backed by an AI model | Nuxt 3, TypeScript | Building |
+| **3ni** | Digital profile pages with NFC cards, for people, company teams, shops and restaurants | Django, DRF, Nuxt 3 | Building |
+| **Kallemny** | Voice English coach with an animated character and scenario-based practice, backed by an AI model | Nuxt 3, TypeScript | Building |
 | **Phone Bridge** | Links a phone to a Windows, Linux or Mac computer: answer calls, talk and listen from the desktop, keep call history | Rust | Building |
 | **Live Presenter** | Builds a slide deck live from what you say in a meeting, in Arabic or English | Nuxt 3, Claude API | Building |
 | **Driver app** | On-demand vetted drivers who drive your own car, for Egypt | — | Planned |
