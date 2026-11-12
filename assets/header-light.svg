@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="Ahmed — Founder and CTO of Inno Source ERP, Cairo">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7f9fc"/><stop offset="1" stop-color="#eaf1fb"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#dbe4f1" stroke-width="1"/></pattern>
+<radialGradient id="fade" cx="0.754" cy="0.5" r="0.55"><stop offset="0" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+<mask id="m"><rect width="1200" height="380" fill="url(#fade)"/></mask>
+<radialGradient id="glow"><stop offset="0" stop-color="#0d9488" stop-opacity=".35"/><stop offset="1" stop-color="#0d9488" stop-opacity="0"/></radialGradient>
+<clipPath id="r"><rect width="1200" height="380" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#r)"><rect width="1200" height="380" fill="url(#bg)"/><rect width="1200" height="380" fill="url(#grid)" mask="url(#m)"/>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#0d9488"><text x="64" y="92">~/cairo $ whoami<tspan fill="#0d9488"> ▍<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1.1s" repeatCount="indefinite"/></tspan></text></g>
+<text x="62" y="168" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="68" font-weight="800" fill="#0f1b33" letter-spacing="-1.5">Ahmed<tspan fill="#0d9488">.</tspan></text>
+<text x="64" y="212" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="600" fill="#0f1b33">Founder &amp; CTO, Inno Source</text>
+<text x="64" y="244" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#40516f">ERP for factories, distributors and trading companies</text>
+<text x="64" y="268" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#40516f">across Egypt and the Gulf.</text>
+<rect x="64" y="298" width="74" height="28" rx="14" fill="#ffffff" stroke="#c5d2e6"/>
+<text x="101" y="317" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#40516f">Django</text>
+<rect x="147.6" y="298" width="74" height="28" rx="14" fill="#ffffff" stroke="#c5d2e6"/>
+<text x="184" y="317" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#40516f">Nuxt 3</text>
+<rect x="231.2" y="298" width="82" height="28" rx="14" fill="#ffffff" stroke="#c5d2e6"/>
+<text x="272" y="317" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#40516f">Android</text>
+<rect x="323.4" y="298" width="65" height="28" rx="14" fill="#ffffff" stroke="#c5d2e6"/>
+<text x="356" y="317" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#40516f">Linux</text>
+<circle cx="905" cy="190" r="150" fill="url(#glow)"><animate attributeName="opacity" values=".6;1;.6" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="905" cy="190" r="128" fill="none" stroke="#c5d2e6" stroke-dasharray="3 7"><animateTransform attributeName="transform" type="rotate" from="0 905 190" to="360 905 190" dur="90s" repeatCount="indefinite"/></circle>
+<path id="p0" d="M905.0 64.6L905 190" stroke="#c5d2e6" stroke-width="1.5" fill="none"/>
+<circle r="3.5" fill="#0d9488"><animateMotion dur="2.60s" begin="0.0s" repeatCount="indefinite"><mpath href="#p0"/></animateMotion></circle>
+<path id="p1" d="M1062.4 127.3L905 190" stroke="#c5d2e6" stroke-width="1.5" fill="none"/>
+<circle r="3.5" fill="#d97706"><animateMotion dur="2.95s" begin="0.5s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#p1"/></animateMotion></circle>
+<path id="p2" d="M1062.4 252.7L905 190" stroke="#c5d2e6" stroke-width="1.5" fill="none"/>
+<circle r="3.5" fill="#0d9488"><animateMotion dur="3.30s" begin="1.0s" repeatCount="indefinite"><mpath href="#p2"/></animateMotion></circle>
+<path id="p3" d="M905.0 315.4L905 190" stroke="#c5d2e6" stroke-width="1.5" fill="none"/>
+<circle r="3.5" fill="#d97706"><animateMotion dur="3.65s" begin="1.5s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#p3"/></animateMotion></circle>
+<path id="p4" d="M747.6 252.7L905 190" stroke="#c5d2e6" stroke-width="1.5" fill="none"/>
+<circle r="3.5" fill="#0d9488"><animateMotion dur="4.00s" begin="2.0s" repeatCount="indefinite"><mpath href="#p4"/></animateMotion></circle>
+<path id="p5" d="M747.6 127.3L905 190" stroke="#c5d2e6" stroke-width="1.5" fill="none"/>
+<circle r="3.5" fill="#d97706"><animateMotion dur="4.35s" begin="2.5s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#p5"/></animateMotion></circle>
+<rect x="836.7" y="47.6" width="137" height="34" rx="9" fill="#ffffff" stroke="#c5d2e6" stroke-width="1.2"/>
+<circle cx="850.7" cy="64.6" r="3.5" fill="#0d9488"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></circle>
+<text x="912.0" y="69.6" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#0f1b33">Manufacturing</text>
+<rect x="1010.5" y="110.3" width="104" height="34" rx="9" fill="#ffffff" stroke="#c5d2e6" stroke-width="1.2"/>
+<circle cx="1024.5" cy="127.3" r="3.5" fill="#0d9488"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+<text x="1069.4" y="132.3" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#0f1b33">Inventory</text>
+<rect x="1020.4" y="235.7" width="84" height="34" rx="9" fill="#ffffff" stroke="#c5d2e6" stroke-width="1.2"/>
+<circle cx="1034.4" cy="252.7" r="3.5" fill="#0d9488"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></circle>
+<text x="1069.4" y="257.7" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#0f1b33">Sales</text>
+<rect x="853.1" y="298.4" width="104" height="34" rx="9" fill="#ffffff" stroke="#c5d2e6" stroke-width="1.2"/>
+<circle cx="867.1" cy="315.4" r="3.5" fill="#0d9488"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
+<text x="912.0" y="320.4" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#0f1b33">Van Sales</text>
+<rect x="705.6" y="235.7" width="84" height="34" rx="9" fill="#ffffff" stroke="#c5d2e6" stroke-width="1.2"/>
+<circle cx="719.6" cy="252.7" r="3.5" fill="#0d9488"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+<text x="754.6" y="257.7" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#0f1b33">CRM</text>
+<rect x="683.4" y="110.3" width="128" height="34" rx="9" fill="#ffffff" stroke="#c5d2e6" stroke-width="1.2"/>
+<circle cx="697.4" cy="127.3" r="3.5" fill="#0d9488"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" begin="2.0s" repeatCount="indefinite"/></circle>
+<text x="754.6" y="132.3" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#0f1b33">AI Assistant</text>
+<circle cx="905" cy="190" r="47" fill="none" stroke="#0d9488" stroke-opacity=".5"><animate attributeName="r" values="47;62;47" dur="3.2s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".5;0;.5" dur="3.2s" repeatCount="indefinite"/></circle>
+<circle cx="905" cy="190" r="47" fill="#ffffff" stroke="#0d9488" stroke-width="2"/>
+<text x="905" y="187" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="800" fill="#0f1b33">INNO</text>
+<text x="905" y="205" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#0d9488" letter-spacing="2">ERP</text>
+</g></svg>
